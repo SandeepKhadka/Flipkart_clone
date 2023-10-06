@@ -1,0 +1,11 @@
+body {
+  background-color: gray;
+  height: 100vh;
+}
+
+/* Define the styles for the active link */
+.active-link {
+  background-color: #d9d9da !important;
+  color: #171717 !important;
+  font-weight: bold !important;
+}
